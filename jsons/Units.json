@@ -8,7 +8,7 @@
 		"strength": 35,
 		"rangedStrength": 50,
 		"range": 1,
-		"cost": 320,
+		"cost": 50,
 		"requiredTech": "Iron Working",
 		"requiredResource": "Iron",
 		"attackSound": "sword"
