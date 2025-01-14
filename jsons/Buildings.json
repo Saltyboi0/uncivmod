@@ -7,6 +7,8 @@
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
+		"cityhealth": 50,
+		"citystrength": 25,
 		"maintenance": 96,
 		"uniques": ["Requires Arsenal to be built in the city", "City strength +25", "City health +50"]
 		"requiredTech": "Replaceable Parts"
